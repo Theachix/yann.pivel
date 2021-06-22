@@ -10819,6 +10819,7 @@ header.masthead {
   text-align: center;
   color: #fff;
   background-image: url("../assets/img/288-2886307_sunset-gif\ -\ Copie.png");
+  filter: contrast(110%);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
