@@ -10803,14 +10803,11 @@ p {
 }
 
 .langages {
-  min-width:50%;
-  max-width: 60%;
-  max-height: 80%;
+  max-width: 900px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 5%;
 }
-
 
 
 header.masthead {
