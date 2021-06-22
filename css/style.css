@@ -10798,11 +10798,12 @@ p {
 }
 
 .langages {
-  max-width: 80%;
+  min-width:50%;
+  max-width: 60%;
   max-height: 80%;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 
